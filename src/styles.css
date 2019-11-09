@@ -1,0 +1,21 @@
+/* global */
+* {
+  border: 0;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  font-size: 100%;
+  font-style: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+  box-sizing: border-box;
+  vertical-align: baseline;
+  background-color: transparent;
+}
+
+/* main-layout */
+#page-wrapper {
+  width: 100vw;
+  height: auto;
+}
